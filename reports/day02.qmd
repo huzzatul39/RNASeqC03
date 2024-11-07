@@ -1,0 +1,18 @@
+---
+title: "Fundamental of R: part I"
+author: "Emon"
+format: html
+editor: visual
+---
+
+write a function of two number.
+
+```{r}
+2+2
+```
+
+```{r}
+plot(iris)
+```
+
+the figure shows...(something)
